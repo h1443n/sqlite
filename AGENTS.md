@@ -54,7 +54,7 @@ Zustand + `sql.js` in a web worker.
   `npx vitest run <path>`.
 - Biome is the formatter and linter. Let Biome own import organization.
 - TypeScript is strict; `build` and `build:pages` both run `tsc -b` first.
-- `vite.config.ts` sets `base` to `/sqlite-online/` only in `pages` mode.
+- `vite.config.ts` sets `base` to `/sqlite/` only in `pages` mode.
 
 ## Architecture you need to know
 

@@ -1,7 +1,7 @@
 # SQLite Online
 
 <div align="center">
-  <a href="https://yzua.github.io/sqlite-online/">
+  <a href="https://codexdev.ru/sqlite/">
     <img
       src="https://github.com/user-attachments/assets/aef749bf-df08-4a84-8148-d34b796449d8"
       alt="SQLite Online Logo"
